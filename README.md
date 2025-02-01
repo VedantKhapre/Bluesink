@@ -20,7 +20,7 @@ Bluesink is a Bash script that manages PulseAudio Bluetooth sinks, allowing mult
 
 1. Clone this repository or download the script:
 ```bash
-git clone [repository-url]
+git clone https://github.com/VedantKhapre/Bluesink
 ```
 
 2. Make the script executable:
